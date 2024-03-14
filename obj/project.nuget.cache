@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "leP2/yra7hIRsSu02a+hvUxEvL+/1oA/JRHN6wZk0j4QUhW3AYkHfzq6QU43U/jYi/xRPShVmeuCDbNM0VY8bQ==",
+  "success": true,
+  "projectFilePath": "/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/9000_nucups-manager.csproj",
+  "expectedPackageFiles": [
+    "/home/eureka/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

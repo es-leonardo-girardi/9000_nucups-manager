@@ -1,0 +1,17 @@
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/bin/Debug/net8.0/9000_nucups-manager
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/bin/Debug/net8.0/9000_nucups-manager.deps.json
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/bin/Debug/net8.0/9000_nucups-manager.runtimeconfig.json
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/bin/Debug/net8.0/9000_nucups-manager.dll
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/bin/Debug/net8.0/9000_nucups-manager.pdb
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/obj/Debug/net8.0/9000_nucups-manager.csproj.AssemblyReference.cache
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/obj/Debug/net8.0/9000_nucups-manager.GeneratedMSBuildEditorConfig.editorconfig
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/obj/Debug/net8.0/9000_nucups-manager.AssemblyInfoInputs.cache
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/obj/Debug/net8.0/9000_nucups-manager.AssemblyInfo.cs
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/obj/Debug/net8.0/9000_nucups-manager.csproj.CoreCompileInputs.cache
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/obj/Debug/net8.0/9000_nuc.7F886B5E.Up2Date
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/obj/Debug/net8.0/9000_nucups-manager.dll
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/obj/Debug/net8.0/refint/9000_nucups-manager.dll
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/obj/Debug/net8.0/9000_nucups-manager.pdb
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/obj/Debug/net8.0/9000_nucups-manager.genruntimeconfig.cache
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/obj/Debug/net8.0/ref/9000_nucups-manager.dll

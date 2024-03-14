@@ -1,0 +1,2 @@
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/bin/Release/net8.0/linux-x64/publish/9000_nucups-manager.pdb
+/home/eureka/RiderProjects/9000_nucups-manager/9000_nucups-manager/bin/Release/net8.0/linux-x64/publish/9000_nucups-manager
